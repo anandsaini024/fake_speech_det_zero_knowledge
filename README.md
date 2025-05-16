@@ -1,6 +1,6 @@
 # Zero-Knowledge Faked Speech Detection
 
-This project implements a neural network-based digital forensics tool for detecting artificially generated speech without requiring any reference or source audio — a concept known as **zero-knowledge detection**. The system is designed to support real-time applications such as speech-to-text, voice authentication, and secure voice-based interactions.
+This project implements a neural network-based digital forensics tool for detecting artificially generated speech without requiring any reference or source audio, a concept known as **zero-knowledge detection**. The system is designed to support real-time applications such as speech-to-text, voice authentication, and secure voice-based interactions.
 
 ## Overview
 
